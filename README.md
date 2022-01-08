@@ -157,7 +157,7 @@ tick-rates:
 - Besser als Plugin based ;)
 
 ### Resultat:
-![XrayTest](../blob/master/XrayTest.png?raw=true)
+![XrayTest](../master/XrayTest.png?raw=true)
 
 
 #                                                                              Bukkit.yml
