@@ -157,8 +157,7 @@ tick-rates:
 - Besser als Plugin based ;)
 
 ### Resultat:
-![XrayTest](../master/XrayTest.png?raw=true)
-
+![XrayTest](https://github.com/oOHiyoriOo/gravOptimizing/blob/main/XrayTest.png?raw=true)
 
 #                                                                              Bukkit.yml
 #### spawn-limits von
