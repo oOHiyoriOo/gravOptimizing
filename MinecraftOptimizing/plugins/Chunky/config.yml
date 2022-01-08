@@ -1,0 +1,13 @@
+version: 1
+language: en
+continue-on-restart: false
+tasks:
+  world:
+    cancelled: true
+    radius: 5000.0
+    x-center: 0.0
+    z-center: 0.0
+    iterator: concentric
+    shape: square
+    count: 393079
+    time: 6044940
